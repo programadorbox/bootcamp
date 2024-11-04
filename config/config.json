@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "db_bootcamp",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+  },
+  "production": {
+  }
+}
